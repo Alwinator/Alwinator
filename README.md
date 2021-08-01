@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Alwin 👋🏼
 
-<!--
-**Alwinator/Alwinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student at HTL Spengergasse, specializing in computer science. In my free time I work on artificial intelligence and machine learning projects, as well as web applications associated with database structures.
 
-Here are some ideas to get you started:
+Talk to me about [Singularity](https://en.wikipedia.org/wiki/Technological_singularity), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self). 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I usually work on business projects on private GitLab servers. That's why I have few commits on GitHub.
+
+### Around the web 🧭
+- Check out my [website](https://alwinschuster.at) 🌐
+- You can also follow me on [LinkedIn](https://www.linkedin.com/in/alwin-schuster) 🔗
+
+I don't have Twitter, Instagram, Snapchat, Facebook, or TikTok. So, if you find random profiles through Google -- that's not me!
+
+### You can reach me [here](https://alwinschuster.at/contact) 📫
+
+I love statistics, so:
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwinator&count_private=true&theme=dark)
+
+#### Top languages (public repos only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwinator&theme=dark)
