@@ -1,6 +1,6 @@
 # Hi, I'm Alwin 👋🏼
 
-I am a Student at HTL Spengergasse, specializing in computer science. In my free time I work on artificial intelligence and machine learning projects, as well as web applications associated with database structures.
+I am a student at HTL Spengergasse, specializing in computer science. In my free time I work on artificial intelligence and machine learning projects, as well as web applications associated with database structures.
 
 Talk to me about [Singularity](https://en.wikipedia.org/wiki/Technological_singularity), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self). 🧠
 
