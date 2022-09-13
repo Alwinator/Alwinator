@@ -4,7 +4,7 @@ I am a former student at HTL Spengergasse, specializing in computer science. In 
 
 Talk to me about [Singularity](https://en.wikipedia.org/wiki/Technological_singularity), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) and [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self). 🧠
 
-I usually work on business projects on private GitLab servers. That's why I have only a few commits on GitHub.
+I usually work on business projects on private GitLab/BitBucket servers. That's why I have only a few commits on GitHub.
 
 ### Around the web 🧭
 - Check out my [website](https://alwinschuster.at) 🌐
